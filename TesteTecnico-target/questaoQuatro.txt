@@ -1,0 +1,11 @@
+a) A logica é composta por números ímpares que aumentam em 2, o número seguinte seria "9".
+
+b) A logica é composta por potências, o numero seguinte seria "128".
+
+c) A logica é composta por quadrados numericos inteiros, o número seguinte seria "49".
+
+d) A logica é composta por quadrados numericos pares, o numero seguinte seria "100".
+
+e) A logica é a sequência de Fibonacci, o numero é a soma dos dois números anteriores, o número seguinte seria "13".
+
+e) A logica alterna entre numeros que não são primos e depois um numero primo, o número seguinte seria "20".

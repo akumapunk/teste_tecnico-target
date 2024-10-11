@@ -1,0 +1,3 @@
+Ligaria o interruptor 1, veria qual lampada acenderia, anotaria qual lampada é ligada com o interruptor 1.
+Ligaria o interruptor 2, veria qual lampada acenderia dessa vez e anotaria.
+O terceiro ja saberia qual é, então anotaria.
